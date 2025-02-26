@@ -12,7 +12,9 @@ namespace MinhaCalculadora
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-        int numero1, numero2, resultado;
+        int numero1, numero2, resultado, contador;
+
+            do
 
             numero1 = int.Parse(txtNumero1.Text);
             numero2 = int.Parse(txtNumero2.Text);
@@ -40,7 +42,20 @@ namespace MinhaCalculadora
                     return;
             }
 
-            lblResultado.Text = resultado.ToString();
+            List<int> lista = new List<int>();
+
+            lista.Add(resultado);
+
+            foreach (var resultado in resultados)
+            {
+                lblResultado.Text = resultado.ToString();
+            }
+
+            contador ++ contador
+
+            while (contador < 10)
+
+                this.Close();
         }
     }
 }
