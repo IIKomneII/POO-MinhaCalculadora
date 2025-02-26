@@ -1,0 +1,16 @@
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.exe
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.deps.json
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.runtimeconfig.json
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.dll
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\bin\Debug\net8.0-windows\MinhaCalculadora.pdb
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.MinhaCalculadora.resources
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.csproj.GenerateResource.cache
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.AssemblyInfo.cs
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.dll
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\refint\MinhaCalculadora.dll
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.pdb
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\MinhaCalculadora.genruntimeconfig.cache
+C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\obj\Debug\net8.0-windows\ref\MinhaCalculadora.dll
