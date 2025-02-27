@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MinhaCalculadora
-build_property.ProjectDir = C:\Users\Ota\Desktop\MinhaCalculadora\MinhaCalculadora\
+build_property.ProjectDir = H:\POO-MinhaCalculadora-main\MinhaCalculadora\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

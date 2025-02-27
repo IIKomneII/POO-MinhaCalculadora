@@ -12,48 +12,45 @@ namespace MinhaCalculadora
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-        int numero1, numero2, resultado, contador;
+        int numero1 = 0, numero2 = 0, resultado = 0, contador = 0;
 
             do
-
-            numero1 = int.Parse(txtNumero1.Text);
-            numero2 = int.Parse(txtNumero2.Text);
-
-            Calculadora calcular = new Calculadora();
-
-            string operacao = cmbFunções.SelectedItem.ToString();
-
-            switch (operacao)
             {
-                case "+":
-                    resultado = calcular.Somar(numero1, numero2);
-                    break;
-                case "-":
-                    resultado = calcular.Subtrair(numero1, numero2);
-                    break;
-                case "x":
-                    resultado = calcular.Multiplicar(numero1, numero2);
-                    break;
-                case "/":
-                    resultado = calcular.Dividir(numero1, numero2);
-                    break;
-                default:
-                    MessageBox.Show("Operação inválida.");
-                    return;
+                numero1 = int.Parse(txtNumero1.Text);
+                numero2 = int.Parse(txtNumero2.Text);
+
+                Calculadora calcular = new Calculadora();
+
+                string operacao = cmbFunções.SelectedItem.ToString();
+
+                switch (operacao)
+                {
+                    case "+":
+                        resultado = calcular.Somar(numero1, numero2);
+                        break;
+                    case "-":
+                        resultado = calcular.Subtrair(numero1, numero2);
+                        break;
+                    case "x":
+                        resultado = calcular.Multiplicar(numero1, numero2);
+                        break;
+                    case "/":
+                        resultado = calcular.Dividir(numero1, numero2);
+                        break;
+                    default:
+                        MessageBox.Show("Operação inválida.");
+                        return;
+                }
+
+                List<int> lista = new List<int>();
+
+                lista.Add(resultado);
+
+                lblResultado.Text = string.Join(", ", lista);
+
+                contador += contador;
             }
-
-            List<int> lista = new List<int>();
-
-            lista.Add(resultado);
-
-            foreach (var resultado in resultados)
-            {
-                lblResultado.Text = resultado.ToString();
-            }
-
-            contador ++ contador
-
-            while (contador < 10)
+            while (contador < 10);
 
                 this.Close();
         }
